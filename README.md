@@ -1,7 +1,7 @@
 # WORDLE 
 
-El juego Wordle usando React, Typescript y Sass
+Wordle game using React, Typescript, Sass and Free Dictionary API.
 
-- Ver Pagina: [Link a la pagina web](https://sergio-ivan-melgarejo.github.io/aviso-cookies/)
+- Look at the Page: [Link to Page](https://sergio-ivan-melgarejo.github.io/react-wordle/)
 
-![Captura de pantalla del sitio web](./img/screencapture.png)
+![Captura de pantalla del sitio web](./static/img/screencapture.png)
